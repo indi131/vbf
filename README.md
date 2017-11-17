@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+### Info
+    - blog on vue
+
 ## Build Setup
 
 ``` bash
